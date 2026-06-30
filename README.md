@@ -21,3 +21,4 @@ Skills learned:
 - Write-One-To-Set (W1TS) and Write-One-To-Clear (W1TC) registers
 - Hardware abstraction using board configuration
 - Reusable embedded drivers
+- learned to push to github using cmd
